@@ -1,0 +1,1274 @@
+[
+  {
+    "frage": "Buenos Aires ist die Hauptstadt von?",
+    "antwort": "Argentinien"
+  },
+  {
+    "frage": "Welches Land hat die gr\u00f6\u00dfte Waldfl\u00e4che?",
+    "antwort": "Russland"
+  },
+  {
+    "frage": "Buchstabiere Interesse.",
+    "antwort": "I N T E R E S S E"
+  },
+  {
+    "frage": "Welche Fu\u00dfballverein wird die K\u00f6niglichen genannt?",
+    "antwort": "Real Madrid"
+  },
+  {
+    "frage": "Welche Farben enth\u00e4lt die Flagge von Argentinien?",
+    "antwort": "Blau, wei\u00df, Gelb"
+  },
+  {
+    "frage": "Welches deutsche Bundesland hat die meisten Einwohner?",
+    "antwort": "NRW"
+  },
+  {
+    "frage": "Wo steht das Burj Khalifa?",
+    "antwort": "Dubai"
+  },
+  {
+    "frage": "In welchem US Bundesstaat befindet sich Alcatraz?",
+    "antwort": "Kalifornien"
+  },
+  {
+    "frage": "Wie viele Spieler stehen beim Eishockey auf dem Feld?",
+    "antwort": 12
+  },
+  {
+    "frage": "Wie lange geht ein regul\u00e4res Fu\u00dfballspiel?",
+    "antwort": "90 min"
+  },
+  {
+    "frage": "Wie nennt man die Haare von Schweinen?",
+    "antwort": "Borsten"
+  },
+  {
+    "frage": "Wie lange ist die regul\u00e4re Amtszeit des Bundeskanzlers?",
+    "antwort": "4 Jahre"
+  },
+  {
+    "frage": "Was war Arnold Schwarzenegger vor seiner Karriere als Schauspieler?",
+    "antwort": "Bodybuilder"
+  },
+  {
+    "frage": "Was misst man mit einem Geodreieck?",
+    "antwort": "Winkel und L\u00e4ngen"
+  },
+  {
+    "frage": "Nenne einen der vier Gr\u00fcnder von Facebook",
+    "antwort": "Zuckerberg, Dustin Moskovitz, Chris Hughes, Eduardo Saverin"
+  },
+  {
+    "frage": "Nach wem wurde der Nobelpreis benannt?",
+    "antwort": "Alfred Nobel"
+  },
+  {
+    "frage": "Welcher Planet ist der Sonne am n\u00e4chsten?",
+    "antwort": "Merkur"
+  },
+  {
+    "frage": "Welche Uhr kann man nur tags\u00fcber ablesen?",
+    "antwort": "Sonnenuhr"
+  },
+  {
+    "frage": "In welcher bekannten Serie sprach David Hasselhoff regelm\u00e4\u00dfig mit seinem Auto?",
+    "antwort": "Knight Rider"
+  },
+  {
+    "frage": "Wof\u00fcr steht die Abk\u00fcrzung DGS beim Getriebe?",
+    "antwort": "Direktschaltgetriebe"
+  },
+  {
+    "frage": "Wenn zwei sich streiten, freut sich der \u2026 ?",
+    "antwort": "Dritte"
+  },
+  {
+    "frage": "In welchem Jahr fiel die Berliner Mauer?",
+    "antwort": 1998
+  },
+  {
+    "frage": "In welchem K\u00fcchenger\u00e4t kann man sehr schnell essen erw\u00e4rmen und Auftauen?",
+    "antwort": "Mikrowelle"
+  },
+  {
+    "frage": "Wie nennt man den Funkstandard um auf kurze Distanzen Daten, Musik, Bilder oder videos zwischen Ger\u00e4ten auszutauschen?",
+    "antwort": "Bluetooth"
+  },
+  {
+    "frage": "Julius Caesar war ein bedeutender Feldherr und Diktator welchen Reiches ?",
+    "antwort": "R\u00f6misches Reich"
+  },
+  {
+    "frage": "War oder Falsch: Die Blackbox in einem Flugzeug ist schwarz.",
+    "antwort": false
+  },
+  {
+    "frage": "Was machen Flederm\u00e4use im Winter?",
+    "antwort": "Winterschlaf"
+  },
+  {
+    "frage": "Welches Dokument best\u00e4tigt den Besitz eines KFZ`s ?",
+    "antwort": "Fahrzeugbrief"
+  },
+  {
+    "frage": "Das fl\u00e4chenst\u00e4rkste Land in der EU ist?",
+    "antwort": "Frankreich"
+  },
+  {
+    "frage": "Auf welchem Kontinent liegt Uganda?",
+    "antwort": "Afrika"
+  },
+  {
+    "frage": "Was ist 12 * 12 ?",
+    "antwort": 144
+  },
+  {
+    "frage": "F\u00fcr einen Vollzeitjob sind mindestens wie viele bezahlte Urlaubstage gesetzlich vorgeschrieben?",
+    "antwort": 20
+  },
+  {
+    "frage": "Was ist der RAM bei einem Computer?",
+    "antwort": "Arbeitsspeicher"
+  },
+  {
+    "frage": "Ein Quartal besteht aus wie vielen Monaten?",
+    "antwort": 3
+  },
+  {
+    "frage": "Microsoft hat das Spiel Minecraft entwickelt, wahr oder falsch?",
+    "antwort": false
+  },
+  {
+    "frage": "Wie viele Minuten hat ein Tag?",
+    "antwort": "1440min"
+  },
+  {
+    "frage": "Was ist jedes Jahr am 31.10?",
+    "antwort": "Halloween, Reformationstag"
+  },
+  {
+    "frage": "Was ist der \u00dcberbegriff f\u00fcr Google, Yahoo, Bing, etc?",
+    "antwort": "Suchmaschine"
+  },
+  {
+    "frage": "Wo geht die Sonne auf?",
+    "antwort": "Osten"
+  },
+  {
+    "frage": "Welche Konstante wird immer bei der Berechnung einer Kreisfl\u00e4che ben\u00f6tigt?",
+    "antwort": "PI"
+  },
+  {
+    "frage": "Dein Herz pumpt Blut, Richtig oder Falsch?",
+    "antwort": "Richtig"
+  },
+  {
+    "frage": "Was bedeutet LOL ausgeschrieben?",
+    "antwort": "laughing out loud"
+  },
+  {
+    "frage": "Die Gravitation der Erde ist niedriger als auf dem Mond, wahr oder falsch?",
+    "antwort": false
+  },
+  {
+    "frage": "Wie viele Kr\u00e4uter sind im J\u00e4germeister?",
+    "antwort": 56
+  },
+  {
+    "frage": "Wie verst\u00e4ndigen sich Sporttaucher unter Wasser?",
+    "antwort": "Handzeichen"
+  },
+  {
+    "frage": "Maschinen die Luft komprimieren, nennt man?",
+    "antwort": "Kompressor"
+  },
+  {
+    "frage": "Wie hei\u00dft das j\u00fcngste Kind der Simpsons?",
+    "antwort": "Maggie"
+  },
+  {
+    "frage": "Mit wem verbindet man die Baker Street?",
+    "antwort": "Sherlock Holmes"
+  },
+  {
+    "frage": "In welchem Verein spielt Christiano Ronaldo ?",
+    "antwort": "Vereinslos"
+  },
+  {
+    "frage": "Welche Farben hat die Flagge von China?",
+    "antwort": "Rot, Gelb"
+  },
+  {
+    "frage": "Was ist die tiefstm\u00f6gliche Temperatur?",
+    "antwort": "(-273\u00b0C)"
+  },
+  {
+    "frage": "Amtssprache in Zypern ist?",
+    "antwort": "griechisch / T\u00fcrkisch"
+  },
+  {
+    "frage": "Ein Schein Medikament ohne Wirkung hei\u00dft?",
+    "antwort": "Placebo"
+  },
+  {
+    "frage": "Wie wird Trinkalkohol fachsprachlich noch genannt?",
+    "antwort": "Ethanol"
+  },
+  {
+    "frage": "Alle Wespen haben einen Giftstachel, wahr oder Falsch?",
+    "antwort": false
+  },
+  {
+    "frage": "Ab wie vielen Jahren ist man in Deutschland vollj\u00e4hrig?",
+    "antwort": 18
+  },
+  {
+    "frage": "Wie viele Spieler stehen bei einem Fu\u00dfballspiel auf dem Platz?",
+    "antwort": 22
+  },
+  {
+    "frage": "Welche V\u00f6gel k\u00f6nnen nicht fliegen?",
+    "antwort": "bspw. Pinguine"
+  },
+  {
+    "frage": "Wie viele Bundesl\u00e4nder hat \u00d6sterreich?",
+    "antwort": 9
+  },
+  {
+    "frage": "Wie hei\u00dft die Kinderserie mit Tieren wie dem Esel I-ah oder einem Ferkel ?",
+    "antwort": "Winnie Puuh"
+  },
+  {
+    "frage": "Wie nennt man Knochen bei Fischen?",
+    "antwort": "Gr\u00e4ten"
+  },
+  {
+    "frage": "Welcher Ozean liegt zwischen Europa und Amerika?",
+    "antwort": "Atlantik"
+  },
+  {
+    "frage": "Welches Schiff ging nach einem Zusammensto\u00df mit einem Eisberg unter?",
+    "antwort": "Titanic"
+  },
+  {
+    "frage": "Wie nennt man den blauen Igel aus der gleichnamigen Spiele Reihe?",
+    "antwort": "Sonic"
+  },
+  {
+    "frage": "Dehydration bedeutet was?",
+    "antwort": "Wassermangel"
+  },
+  {
+    "frage": "Rot ist eine Farbe, wahr oder falsch?",
+    "antwort": true
+  },
+  {
+    "frage": "Was ist die gr\u00f6\u00dfte Insel der Welt?",
+    "antwort": "Gr\u00f6nland"
+  },
+  {
+    "frage": "Was ist das Plural von Maximum ?",
+    "antwort": "Maxima"
+  },
+  {
+    "frage": "Als zweiter Fall, oder \u201eWessen-Fall\u201c wird welcher Kasus der deutschen Grammatik bezeichnet?",
+    "antwort": "Genitiv"
+  },
+  {
+    "frage": "Welcher deutsche Basketballspieler beendete 2019 seine Karriere?",
+    "antwort": "Dirk Nowitzki"
+  },
+  {
+    "frage": "Die Insel Mallorca liegt im?",
+    "antwort": "Mittelmeer"
+  },
+  {
+    "frage": "Wer hat die Mona Lisa gemalt?",
+    "antwort": "Leonardo Da Vinci"
+  },
+  {
+    "frage": "Was sind die Farben der Flagge von Chile?",
+    "antwort": "Rot, Blau & Wei\u00df"
+  },
+  {
+    "frage": "Wie hoch ist die Strafe f\u00fcr einen Gef\u00e4ngnisausbruch in Deutschland?",
+    "antwort": "Es gibt keine Strafe"
+  },
+  {
+    "frage": "In welchem Haus wohnt der amerikanische Pr\u00e4sident?",
+    "antwort": "im Wei\u00dfen Haus"
+  },
+  {
+    "frage": "Welcher amerikanische Pr\u00e4sident ist auf der Dollar-Note abgebildet?",
+    "antwort": "Washington"
+  },
+  {
+    "frage": "Welche ist die meist gesprochene Sprache in Belgien?",
+    "antwort": "Niederl\u00e4ndisch"
+  },
+  {
+    "frage": "In welchem Jahr ist Angela Merkel in den Ruhestand getreten?",
+    "antwort": 2021
+  },
+  {
+    "frage": "Luna Nelson Mandela war Pr\u00e4sident von welchem Land?",
+    "antwort": "S\u00fcd-Afrika"
+  },
+  {
+    "frage": "In welchem Land gibt es eine Weltmeisterschaft in Luftgitarre spielen?",
+    "antwort": "Finnland"
+  },
+  {
+    "frage": "In welchem Land wurde Pablo Picasso geboren?",
+    "antwort": "Spanien"
+  },
+  {
+    "frage": "Von wem stammt das Zitat: \u201eLeni vidi vici\u201c?",
+    "antwort": "Julius Caesar"
+  },
+  {
+    "frage": "Wie hei\u00dft das gr\u00f6\u00dfte Technologieunternehmen in S\u00fcdkorea?",
+    "antwort": "Samsung"
+  },
+  {
+    "frage": "Wie bezeichnet man den Urknall noch?",
+    "antwort": "Big Bang"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Mexico?",
+    "antwort": "Mexico City / Stadt"
+  },
+  {
+    "frage": "Wof\u00fcr h\u00e4lt Paul Hunn den Rekord, welcher bei 118,1 Dezibel lag?",
+    "antwort": "Laut R\u00fclpsen"
+  },
+  {
+    "frage": "Wie lautet der zweite Planet in unserem Sonnensystem?",
+    "antwort": "Venus"
+  },
+  {
+    "frage": "Welche Sportart hat James Naismith erfunden?",
+    "antwort": "Basketball"
+  },
+  {
+    "frage": "Wie viele Spieler gibt es in einem Wasserball Team im Wasser?",
+    "antwort": 7
+  },
+  {
+    "frage": "Buchstabiere das Wort R\u00fcckgrat",
+    "antwort": "R\u00fcckgrat"
+  },
+  {
+    "frage": "Von Wem ist das Lied 99 Luftballons",
+    "antwort": "Nena"
+  },
+  {
+    "frage": "In Welchem Land befindet sich die Stonehenge ",
+    "antwort": "England"
+  },
+  {
+    "frage": "Eulen gelten als Symbol der? ",
+    "antwort": "Weisheit"
+  },
+  {
+    "frage": "Wof\u00fcr ist Juri Gagarin bekannt?",
+    "antwort": "Erster Mann im All"
+  },
+  {
+    "frage": "Wo befindet sich die Klagemauer",
+    "antwort": "Jerusalem"
+  },
+  {
+    "frage": "Wer war der 1. Pr\u00e4sident der USA",
+    "antwort": "Washington"
+  },
+  {
+    "frage": "Welche Betriebsystem stammt von Apple",
+    "antwort": "IOS"
+  },
+  {
+    "frage": "Welches ist das H\u00f6chste Bauwerk Deutschlands",
+    "antwort": "Berliner Fernsehturm"
+  },
+  {
+    "frage": "Wie viel hat der Bau der Berliner Flughafens BER gekostet",
+    "antwort": "6 Milliarden"
+  },
+  {
+    "frage": "Wie hei\u00dft die Hauptstadt von Th\u00fcringen",
+    "antwort": "Erfurt"
+  },
+  {
+    "frage": "Wof\u00fcr steht das L in RTL",
+    "antwort": "Luxemburg"
+  },
+  {
+    "frage": "In Welchem Meer liegt die Insel Hawaii",
+    "antwort": "Pacific"
+  },
+  {
+    "frage": "Wer sang 2 mal 3 macht 4",
+    "antwort": "Pipi Langstrumpf"
+  },
+  {
+    "frage": "Wieviele Pokemon gibt es insgesamt",
+    "antwort": 1008
+  },
+  {
+    "frage": "Ist es wahr, dass Kanada und Russland direkt gegen\u00fcber liegen?",
+    "antwort": "Ja"
+  },
+  {
+    "frage": "Welche Stadt hat nach Berlin die meisten Einwohner in DE",
+    "antwort": "Hamburg (1,8 mio)"
+  },
+  {
+    "frage": "3. Nachkommastelle von Pi lautet?",
+    "antwort": 1
+  },
+  {
+    "frage": "Wie hei\u00dft der aktuelle Apple CEO?",
+    "antwort": "Tim Cook"
+  },
+  {
+    "frage": "Lichtwellen bewegen sich schneller als Schallwellen, wahr oder falsch.",
+    "antwort": "ja"
+  },
+  {
+    "frage": "Wer ist der aktuelle Gesundheitsminister?",
+    "antwort": "Lauterbach"
+  },
+  {
+    "frage": "Wer war der Vorg\u00e4nger/in von Angela Merkel?",
+    "antwort": "Gerhard Schr\u00f6der"
+  },
+  {
+    "frage": "Wie viele Weihnachtsb\u00e4ume werden in Deutschland pro Jahr verkauft?",
+    "antwort": "Etwa 30 Millionen."
+  },
+  {
+    "frage": "Wie viele Liter Bier werden in Deutschland pro Kopf j\u00e4hrlich getrunken?",
+    "antwort": "100 Liter Bier."
+  },
+  {
+    "frage": "Wie lang ist der Begattungsapparat der 15 cm langen Bananenschnecke?",
+    "antwort": "Circa 80 cm, das entspricht 550 Prozent der K\u00f6rpergr\u00f6\u00dfe."
+  },
+  {
+    "frage": "Wie viele Buchstaben hat das hawaiianische Alphabet?",
+    "antwort": 12
+  },
+  {
+    "frage": "Wie viele Einkerbungen hat ein Golfball?",
+    "antwort": 336
+  },
+  {
+    "frage": "Im Laufe eines 60 J\u00e4hrigen Lebens hat ein Mann durchschnittliche wie lange eine Erektion w\u00e4hrend er schl\u00e4ft?",
+    "antwort": "5 Jahre"
+  },
+  {
+    "frage": "Wo ist der Karpaltunnel?",
+    "antwort": "Das ist kein Verkehrstunnel, sondern eine Knochenrinne der Hand, durch die Sehnen und Nerven laufen."
+  },
+  {
+    "frage": "Welcher ist der \u201erote Planet\u201c unseres Sonnensystems?",
+    "antwort": "Der Mars"
+  },
+  {
+    "frage": "Welches Land ist fl\u00e4chenm\u00e4\u00dfig das zweitgr\u00f6\u00dfte der Erde?",
+    "antwort": "Kanada"
+  },
+  {
+    "frage": "Welcher ist der l\u00e4ngste Fluss der Welt?",
+    "antwort": "Amazonas"
+  },
+  {
+    "frage": "Welches ist die gr\u00f6\u00dfte Stadt der Welt?",
+    "antwort": "Mexiko-Stadt"
+  },
+  {
+    "frage": "Wie hei\u00dft die Hauptstadt von Brasilien?",
+    "antwort": "Brasilia"
+  },
+  {
+    "frage": "Wie viele Knochen hat ein Erwachsenenk\u00f6rper?",
+    "antwort": 206
+  },
+  {
+    "frage": "Wie lange hat Goethe an seinem \u201eFaust\u201c gearbeitet?",
+    "antwort": "64 Jahre!"
+  },
+  {
+    "frage": "Mit wie vielen Figuren startet ein Schachspiel?",
+    "antwort": 32
+  },
+  {
+    "frage": "Wie viele Tasten hat ein Klavier?",
+    "antwort": 88
+  },
+  {
+    "frage": "Wie hei\u00dft das Element Gold auf Latein?",
+    "antwort": "Aurum \u2013 im Periodensystem dargestellt als \u201eAu\u201c."
+  },
+  {
+    "frage": "Wie hoch h\u00e4ngt ein Basketball-Korb?",
+    "antwort": "3.05 Meter"
+  },
+  {
+    "frage": "Was ist die Judikative?",
+    "antwort": "Die rechtsprechende Institution im Staat"
+  },
+  {
+    "frage": "Wen beten Buddhisten an?",
+    "antwort": "Niemanden"
+  },
+  {
+    "frage": "Wie viele Bandscheiben hat ein Mensch?",
+    "antwort": 23
+  },
+  {
+    "frage": "Nach welcher Zeit feiert man die \u201ePetersilienhochzeit\u201c?",
+    "antwort": "Nach 12 1/2 Jahren"
+  },
+  {
+    "frage": "In welchem Jahr war die Einf\u00fchrung des Euro?",
+    "antwort": 2002
+  },
+  {
+    "frage": "Wie werden die Nachkommen einer Kreuzung aus Tigern und L\u00f6wen genannt?",
+    "antwort": "Die hei\u00dfen \u201eLiger\u201c."
+  },
+  {
+    "frage": "Was wird durch Antibiotika bek\u00e4mpft? Viren, Bakterien, Pilze?",
+    "antwort": "Antibiotika bek\u00e4mpfen nur Bakterienerkrankungen"
+  },
+  {
+    "frage": "Woraus besteht ein Diamant?",
+    "antwort": "Aus Kohlenstoff"
+  },
+  {
+    "frage": "Wie hei\u00dft die Hauptstadt der Slowakei?",
+    "antwort": "Bratislava"
+  },
+  {
+    "frage": "Wie viele Z\u00e4hne hat ein erwachsener Mensch normalerweise?",
+    "antwort": 32
+  },
+  {
+    "frage": "Wer w\u00e4hlt den Bundespr\u00e4sidenten?",
+    "antwort": "Bundesversammlung"
+  },
+  {
+    "frage": "Wie hoch ist die Mehrwertsteuer in Deutschland?",
+    "antwort": "19 Prozent"
+  },
+  {
+    "frage": "Eichh\u00f6rnchen halten Winterschlafen, war oder falsch?",
+    "antwort": "nein, falsch"
+  },
+  {
+    "frage": "In welcher Einheit wird der elektrische Widerstand gemessen?",
+    "antwort": "Ohm"
+  },
+  {
+    "frage": "Was ist ein Oxymoron?",
+    "antwort": "Ein innerer Widerspruch"
+  },
+  {
+    "frage": "Wie hei\u00dft die Hauptstadt von \u00c4thiopien?",
+    "antwort": "Addis Abeba"
+  },
+  {
+    "frage": "Was soll C\u00e4sar gesagt haben, als er den Rubikon \u00fcberquerte?",
+    "antwort": "alea iacta est"
+  },
+  {
+    "frage": "Wer ist Rekordtorsch\u00fctze der Bundesliga?",
+    "antwort": "Gerd M\u00fcller"
+  },
+  {
+    "frage": "Wie viele Oscars gewann der Film \u201eTitanic\u201c?",
+    "antwort": 11
+  },
+  {
+    "frage": "Teneriffa, Gran Canaria und Fuerteventura geh\u00f6ren zu den\u2026?",
+    "antwort": "Kanarischen Inseln"
+  },
+  {
+    "frage": "Wie beginnt Artikel 1 des deutschen Grundgesetzes?",
+    "antwort": "\u201eDie W\u00fcrde des Menschen ist unantastbar.\u201c"
+  },
+  {
+    "frage": "Wie lautet das chemische Symbol f\u00fcr Blei?",
+    "antwort": "Pb"
+  },
+  {
+    "frage": "Wie viele Planeten hat unser Sonnensystem?",
+    "antwort": 8
+  },
+  {
+    "frage": "Welchen Namen tr\u00e4gt die Universit\u00e4t Frankfurt am Main?",
+    "antwort": "Johann Wolfgang von Goethe"
+  },
+  {
+    "frage": "An welchem Datum fiel die Berliner Mauer?",
+    "antwort": "9-Nov-89"
+  },
+  {
+    "frage": "Was ist ein Sonett?",
+    "antwort": "Eine Gedichtsform"
+  },
+  {
+    "frage": "Wie lautet der Satz des Pythagoras?",
+    "antwort": "a2+b2=c2"
+  },
+  {
+    "frage": "Was ist die Flora?",
+    "antwort": "Gesamte Pflanzenwelt"
+  },
+  {
+    "frage": "Woraus besteht die Luft?",
+    "antwort": "78% Stickstoff, 21% Sauerstoff"
+  },
+  {
+    "frage": "Wie hei\u00dft der kleinste Staat der Welt?",
+    "antwort": "Vatikan"
+  },
+  {
+    "frage": "Der Vatikan hat ca. 10.000 Einwohner, wahr oder falsch? ",
+    "antwort": "Falsch, es sind weniger als 1000"
+  },
+  {
+    "frage": "Welche drei Staatsgewalten gibt es in Deutschland?",
+    "antwort": "Legislative, Exekutive, Judikative"
+  },
+  {
+    "frage": "Von wem stammt das Zitat: \u201eDies ist ein kleiner Schritt f\u00fcr einen Menschen, aber ein riesiger Sprung f\u00fcr die Menschheit.\u201c?",
+    "antwort": "Neil Armstrong"
+  },
+  {
+    "frage": "Wof\u00fcr stehen die olympischen Ringe?",
+    "antwort": "f\u00fcr die f\u00fcnf Kontinente"
+  },
+  {
+    "frage": "Was bedeutet LCD?",
+    "antwort": "liquid crystal display"
+  },
+  {
+    "frage": "Wann wurde der Fu\u00dfball in Deutschland eingef\u00fchrt?",
+    "antwort": "im Jahre 1874 in Braunschweig"
+  },
+  {
+    "frage": "Wie lange dauerte der Bau des K\u00f6lner Doms?",
+    "antwort": "von 1248 bis 1880, insgesamt 632 Jahre"
+  },
+  {
+    "frage": "Wer war der zweite Bundeskanzler der Bundesrepublik Deutschland?",
+    "antwort": "Ludwig Erhard"
+  },
+  {
+    "frage": "Wann wurde das erste iPhone vorgestellt?",
+    "antwort": "Jan-07"
+  },
+  {
+    "frage": "Wie viele Bundesl\u00e4nder hat Deutschland?",
+    "antwort": "16 Bundesl\u00e4nder"
+  },
+  {
+    "frage": "Wof\u00fcr steht die Abk\u00fcrzung \u201eMINT\u201c?",
+    "antwort": "Mathematik, Informatik, Naturwissenschaften und Technik"
+  },
+  {
+    "frage": "Wie lang ist eine Meile?",
+    "antwort": "1609,344 Meter"
+  },
+  {
+    "frage": "Was ist der sogenannte Club 27?",
+    "antwort": "Unter dieser Bezeichnung werden einige Musiker zusammengefasst, die im Alter von 27 Jahren gestorben sind"
+  },
+  {
+    "frage": "Mit wie vielen Nachbarl\u00e4ndern teilt Deutschland sich eine Grenze?",
+    "antwort": "Neun L\u00e4nder grenzen an Deutschland"
+  },
+  {
+    "frage": "Wie lang ist die Strecke eines Marathons?",
+    "antwort": "42,195 Kilometer"
+  },
+  {
+    "frage": "Wie hei\u00dft die Hauptstadt von Bulgarien?",
+    "antwort": "Sofia"
+  },
+  {
+    "frage": "Was bedeutet die Abk\u00fcrzung IT in Begriffen wie IT-Branche?",
+    "antwort": "Informationstechnik"
+  },
+  {
+    "frage": "In welchem K\u00f6rperorgan wird Insulin produziert?",
+    "antwort": "Bauchspeicheldr\u00fcse"
+  },
+  {
+    "frage": "50% der Erde sind ca. mit Wasser bedeckt, wahr oder falsch?",
+    "antwort": "Falsch, es sind ca. 70%"
+  },
+  {
+    "frage": "Der zweith\u00f6chste Berg Deutschlands ist der Hochwanner, wahr oder falsch?",
+    "antwort": "Ja, Wahr"
+  },
+  {
+    "frage": "Die Hauptstadt der US-Bundestaates Kentucky hei\u00dft Hamborg, wahr oder falsch? ",
+    "antwort": "nein, falsch"
+  },
+  {
+    "frage": "Wie hei\u00dft die Hauptstadt des US-Bundesstaates Kentucky?",
+    "antwort": "Frankfort"
+  },
+  {
+    "frage": "Welches Bundesland ist fl\u00e4chenm\u00e4\u00dfig das gr\u00f6\u00dfte?",
+    "antwort": "Bayern"
+  },
+  {
+    "frage": "Welcher ist der l\u00e4ngste innerdeutsche Fluss?",
+    "antwort": "Rhein"
+  },
+  {
+    "frage": "Wie tief ist der Marianengraben? 3k meter, 30k meter, 13k meter",
+    "antwort": "13.000 Meter"
+  },
+  {
+    "frage": "Wie viele Einwohner hat Russland ungef\u00e4hr?",
+    "antwort": "145 Millionen"
+  },
+  {
+    "frage": "Wie hei\u00dft die Hauptstadt von Indonesien?",
+    "antwort": "Jakarta"
+  },
+  {
+    "frage": "Wie lang ist die Chinesische Mauer (gerundet)?",
+    "antwort": "21.000 Kilometer"
+  },
+  {
+    "frage": "Der wievielte US-Pr\u00e4sident war Barack Obama?",
+    "antwort": 44
+  },
+  {
+    "frage": "Welches ist das h\u00f6chste Amt in Deutschland?",
+    "antwort": "Bundespr\u00e4sident"
+  },
+  {
+    "frage": "Zu welchem Land geh\u00f6rt Gr\u00f6nland politisch?",
+    "antwort": "D\u00e4nemark"
+  },
+  {
+    "frage": "Welcher Partei geh\u00f6rte Konrad Adenauer an?",
+    "antwort": "CDU"
+  },
+  {
+    "frage": "Welche Parteien sind an einer Jamaika-Koalition beteiligt?",
+    "antwort": "CDU, Gr\u00fcne, FDP"
+  },
+  {
+    "frage": "In welchem Zeitraum fand der erste Weltkrieg statt?",
+    "antwort": "1914 bis 1918"
+  },
+  {
+    "frage": "Wie gro\u00df ist die Summe der Winkel eines Dreiecks?",
+    "antwort": "180 Grad"
+  },
+  {
+    "frage": "Wie wird die Zahl unter dem Bruchstrich bezeichnet?",
+    "antwort": "Nenner"
+  },
+  {
+    "frage": "Wie beginnt die Kreiszahl Pi (\u03c0)?",
+    "antwort": 3.1415
+  },
+  {
+    "frage": "Welche Formel berechnet den Kreisumfang?",
+    "antwort": "2 mal \u03c0 mal r"
+  },
+  {
+    "frage": "Was ist eine Primzahl?",
+    "antwort": "Eine Zahl, die nur durch 1 und sich selbst teilbar ist."
+  },
+  {
+    "frage": "Wer schrieb den \u201eErlk\u00f6nig\u201c?",
+    "antwort": "Johann Wolfgang von Goethe"
+  },
+  {
+    "frage": "Wer schrieb die Harry Potter B\u00fccher?",
+    "antwort": "Joanne K. Rowling"
+  },
+  {
+    "frage": "Auf welcher Buchreihe basiert die Erfolgsserie \u201eGame of Thrones\u201c?",
+    "antwort": "A Song of Ice and Fire"
+  },
+  {
+    "frage": "Wie hei\u00dft das bekannteste Werk von Patrick S\u00fcskind?",
+    "antwort": "Das Parfum"
+  },
+  {
+    "frage": "In wessen B\u00fcchern hei\u00dft die Hauptfigur Robert Langdon?",
+    "antwort": "Dan Brown"
+  },
+  {
+    "frage": "Mit wem geht Goethes \u201eFaust\u201c einen Pakt ein?",
+    "antwort": "Mit Mephisto"
+  },
+  {
+    "frage": "Auf welcher Stra\u00dfe ist noch keiner gefahren?",
+    "antwort": "Auf der Milchstra\u00dfe"
+  },
+  {
+    "frage": "Welcher Mann wird in der Sonne immer kleiner?",
+    "antwort": "Der Schneemann"
+  },
+  {
+    "frage": "Wo f\u00fchren Eltern nicht nur ihren Hund, sondern auch ihre Kinder an der Leine spazieren?",
+    "antwort": "In Hannover"
+  },
+  {
+    "frage": "Was ist das Gegenteil von Reformhaus?",
+    "antwort": "Reh hinterm Haus"
+  },
+  {
+    "frage": "welches Gem\u00fcse ist unter auch unter Erd\u00e4pfel bekannt",
+    "antwort": "Kartoffel"
+  },
+  {
+    "frage": "warum ist die Flagge von Zypern leicht zu erkennen",
+    "antwort": "Weil Die Form von Zypern drauf ist"
+  },
+  {
+    "frage": "von wem ist der Song God is a woman",
+    "antwort": "Ariana Grande"
+  },
+  {
+    "frage": "Wie hei\u00dft der freche Kobold vom Meister Eder",
+    "antwort": "Pumuckel"
+  },
+  {
+    "frage": "wenn man kurzsichtig ist sieht man nahe Dinge gut, richtig oder falsch",
+    "antwort": "Ist richtig"
+  },
+  {
+    "frage": "Wie hei\u00dft das bekannte gelbe mausartige Pok\u00e9mon",
+    "antwort": "Pikachu"
+  },
+  {
+    "frage": "Buchstabiere das Wort Jackett",
+    "antwort": "Jackett"
+  },
+  {
+    "frage": "Die Hauptstadt von China ist?",
+    "antwort": "Peking"
+  },
+  {
+    "frage": "wen suchen Nemo und sein Vater im Nachfolger von Findet Nemo",
+    "antwort": "Dory"
+  },
+  {
+    "frage": "viele Filme von Toy Story gibt es",
+    "antwort": 4
+  },
+  {
+    "frage": "An was glaubt Yugi in Yu-Gi-Oh",
+    "antwort": "An das Herz der Karten"
+  },
+  {
+    "frage": "Wie dick ist die Eisfl\u00e4che beim Eishockey? Cm",
+    "antwort": "6 bis 8 cm"
+  },
+  {
+    "frage": "welche Farben muss man mischen um die Farbe Lila zu bekommen",
+    "antwort": "Rot und blau"
+  },
+  {
+    "frage": "Pipi Langstrumpfs Affe hei\u00dft Herr Peterson, wahr oder Falsch?",
+    "antwort": "Falsch, er hei\u00dft Herr Nielson"
+  },
+  {
+    "frage": "In welchem Bundesland befindet sich die Stadt Stuttgart?",
+    "antwort": "Baden W\u00fcrtenberg"
+  },
+  {
+    "frage": "Vervollst\u00e4ndige \"Morgenstund hat ... \"",
+    "antwort": "Gold im Mund"
+  },
+  {
+    "frage": "Du bist mein Sohn, aber ich nicht dein Vater, wer sagt das?",
+    "antwort": "Meine Mutter"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Spanien?",
+    "antwort": "Madrid"
+  },
+  {
+    "frage": "Wie nennt man einen jungen Hund?",
+    "antwort": "Welpe"
+  },
+  {
+    "frage": "Was ist die Quadratwurzel aus 121?",
+    "antwort": 11
+  },
+  {
+    "frage": "Welche Farben sind in der Niederl\u00e4ndischen Flagge enthalten?",
+    "antwort": "Blau, wei\u00df, Rot / Orange"
+  },
+  {
+    "frage": "Pluto wurde der Planetenstatus aberkannt, wahr oder falsch?",
+    "antwort": "Wahr, wurde aberkannt"
+  },
+  {
+    "frage": "Wie werden britische Polizisten umganssprachlich auch genannt?",
+    "antwort": "Bobbys"
+  },
+  {
+    "frage": "Woher wurde der Spruch Hakuna Matata bekannt?",
+    "antwort": "K\u00f6nig der L\u00f6wen"
+  },
+  {
+    "frage": "Wie he\u00dft die Newcomerin die unter Anderem durch Wildberry Lillet bekannt wurde?",
+    "antwort": "Nina Chuba"
+  },
+  {
+    "frage": "Was ist das fl\u00e4chenm\u00e4\u00dfig kleinste Bundesland in DE?",
+    "antwort": "Bremen"
+  },
+  {
+    "frage": "Oslo ist die Hauptstadt von Schweden, wahr oder Falsch?",
+    "antwort": "Falsch, es ist Stockholm"
+  },
+  {
+    "frage": "Wo geht die Sonne unter?",
+    "antwort": "Osten"
+  },
+  {
+    "frage": "Welches Vitamin wird im K\u00f6rper mit Hilfe von Sonnenlicht gebildet?",
+    "antwort": "Vitamin D"
+  },
+  {
+    "frage": "Die Simpsons leben in welcher Stadt?",
+    "antwort": "Springfield"
+  },
+  {
+    "frage": "Wie lang ist die chinesische Mauer?",
+    "antwort": "21.000 km"
+  },
+  {
+    "frage": "Mit welcher F\u00fchrerscheinklasse darf man in DE Auto fahren?",
+    "antwort": "B"
+  },
+  {
+    "frage": "Wie hei\u00dft die Hauptstadt der Slovakei?",
+    "antwort": "Bratislava"
+  },
+  {
+    "frage": "Was ist der l\u00e4ngste Fluss der Welt?",
+    "antwort": "Nil"
+  },
+  {
+    "frage": "Auf welchen Pferden kann man nicht reiten? ",
+    "antwort": "Seepferdchen "
+  },
+  {
+    "frage": "In welchem Jahr wurde das World Trade Center zerst\u00f6rt?",
+    "antwort": 2001
+  },
+  {
+    "frage": "Wann kam der 1. Pokemon Film ins Kino?",
+    "antwort": 1998
+  },
+  {
+    "frage": "Deutschland hat unter 80 mio Einwohner, wahr oder falsch?",
+    "antwort": "Falsch, sind mehr"
+  },
+  {
+    "frage": "Wer ist der gr\u00f6\u00dfte Feind von Batman?",
+    "antwort": "Joker"
+  },
+  {
+    "frage": "Welcher ist der l\u00e4ngste innerdeutsche Fluss?",
+    "antwort": "Rhein"
+  },
+  {
+    "frage": "Welche Abk\u00fcrzung hat die World Health Organisation?",
+    "antwort": "WHO"
+  },
+  {
+    "frage": "Welcher Bus kann nicht fahren?",
+    "antwort": "Bambus, Globus"
+  },
+  {
+    "frage": "Foglt man dem \u00c4quator um die Welt, legt man wie viele KM zur\u00fcck?",
+    "antwort": 40
+  },
+  {
+    "frage": "Auf welchem Kontinent liegt die W\u00fcste Sahara?",
+    "antwort": "Afrika"
+  },
+  {
+    "frage": "Was bedeutet die Abk\u00fcrzung GaLiGr\u00fc?",
+    "antwort": "Ganz liebe Gr\u00fc\u00dfe"
+  },
+  {
+    "frage": "Ist es wahr, dass eine Raupe etwa genauso viele Muskeln hat wie ein Mensch?",
+    "antwort": "Nein, sie hat etwa 3 mal so viele"
+  },
+  {
+    "frage": "Wie oft ist Deutschland Fu\u00dfballweltmeister geworden?",
+    "antwort": "4 mal"
+  },
+  {
+    "frage": "Wof\u00fcr steht AFK?",
+    "antwort": "Away from Keyboard"
+  },
+  {
+    "frage": "Buchstabiere Hokuspokus.",
+    "antwort": "Hokuspokus"
+  },
+  {
+    "frage": "Die Mona Lisa hatte fr\u00fcher mal Augenbrauen, wahr oder falsch?",
+    "antwort": "Ist Wahr"
+  },
+  {
+    "frage": "Rote Bohnen sind giftig, wahr oder falsch?",
+    "antwort": "Wahr, nur gekocht "
+  },
+  {
+    "frage": "Wieviele KM ist ein Halbmarathon?",
+    "antwort": 21
+  },
+  {
+    "frage": "Welche ist die Amtssprache in Argentinien?",
+    "antwort": "Spanisch"
+  },
+  {
+    "frage": "Wie hei\u00dft der rote Teletubby?",
+    "antwort": "Po"
+  },
+  {
+    "frage": "Hamburg hat mehr Einwohner als das Saarland, richtig oder Falsch?",
+    "antwort": "Ja"
+  },
+  {
+    "frage": "Wieviel ist 3 hoch 3?",
+    "antwort": 27
+  },
+  {
+    "frage": "Eine Billionen hat eine 1 mit wievielen Nullen?",
+    "antwort": 12
+  },
+  {
+    "frage": "Aus welchem chemischen Element bestehen Diamanten?",
+    "antwort": "Kohlenstoff"
+  },
+  {
+    "frage": "Bei welchem Formel1 Team hat Sebastian Vettel all seine Titel gewonnen?",
+    "antwort": "Redbull Racing"
+  },
+  {
+    "frage": "Von wem ist der bekannte Weihnachtssong \"All i want for Christmas is you\"?",
+    "antwort": "Mariah Carey"
+  },
+  {
+    "frage": "Birken sind gut anhand ihrer Rinde zu erkennen, die hat n\u00e4mlich welche Farbe?",
+    "antwort": "Wei\u00df"
+  },
+  {
+    "frage": "Elektrische Spannung wird in welcher Einheit gemessen?",
+    "antwort": "Volt"
+  },
+  {
+    "frage": "Ein Wassermolek\u00fcl besteht aus wievielen Atomen?",
+    "antwort": 3
+  },
+  {
+    "frage": "In welchem Meer liegt Nordernay?",
+    "antwort": "Nordsee"
+  },
+  {
+    "frage": "Wasser hat bei 4 grad Zelsius die h\u00f6chste Dichte, wahr oder falsch?",
+    "antwort": "Das ist wahr"
+  },
+  {
+    "frage": "Leben Pinguine in der Arktis oder in der Antarktis?",
+    "antwort": "Antarktis"
+  },
+  {
+    "frage": "In welchem Jahrhunder hat Da vinci die Mona Lisa gemalt?",
+    "antwort": 16
+  },
+  {
+    "frage": "Was passiert zwischen der Sommer und der Winterzeit?",
+    "antwort": "die Uhr wird umgestellt"
+  },
+  {
+    "frage": "In welchem Jahrhundert wurde Picasso geboren?",
+    "antwort": 19
+  },
+  {
+    "frage": "Michael Schuhmacher wurde 7 mal Formel1 Weltmeister, wahr oder falsch?",
+    "antwort": "Yes, ist wahr"
+  },
+  {
+    "frage": "Der Kern von Atomen besteht aus Protonen und ..?",
+    "antwort": "Neutronen"
+  },
+  {
+    "frage": "Wie hie\u00df der Gr\u00fcnder von Ferrari mit Vornamen?",
+    "antwort": "Enzo"
+  },
+  {
+    "frage": "Welche Himmelsrichtung liegt gegen\u00fcber von S\u00fcden?",
+    "antwort": "Norden"
+  },
+  {
+    "frage": "Welcher ist der h\u00f6chste Berg in DE?",
+    "antwort": "Zugspitze"
+  },
+  {
+    "frage": "In welchem Ozean liegt Madagaskar?",
+    "antwort": "Indischer Ozean"
+  },
+  {
+    "frage": "Welchen Aggregatzustand hat Queksilver bei Raumtemperatur?",
+    "antwort": "Fl\u00fc\u00dfig"
+  },
+  {
+    "frage": "Florian Silbereisen ist Weltrekordhalter im \u00fcber hei\u00dfe Herdplatten laufen, wahr oder falsch?",
+    "antwort": "Ist wahr, 2011 "
+  },
+  {
+    "frage": "Welches Land hat einen Dreizack auf der Flagge? ",
+    "antwort": "Babados"
+  },
+  {
+    "frage": "Wieviele Milligramm sind 1 Gramm?",
+    "antwort": 1000
+  },
+  {
+    "frage": "Was ist schwerer eine Unze oder ein Gramm?",
+    "antwort": "Eine Unze"
+  },
+  {
+    "frage": "Wie ist die Richtgeschwindigkeit auf deutschen Autobahnen?",
+    "antwort": "130kmh"
+  },
+  {
+    "frage": "Wof\u00fcr steht der lateinische Begriff Patella?",
+    "antwort": "Kniescheibe"
+  },
+  {
+    "frage": "Welche ist die gr\u00f6\u00dfte W\u00fcste der Welt?",
+    "antwort": "Antarktis"
+  },
+  {
+    "frage": "Auf einer Stange sitzen 10.000 Tauben, ein J\u00e4ger schie\u00dft 1 Taube, wieviele Tauben sitzen noch auf der Stange?",
+    "antwort": "Keine"
+  },
+  {
+    "frage": "Die Bahamas liegen n\u00e4her an Florida als an Jamaika, wahr oder falsch?",
+    "antwort": "Korrekt"
+  },
+  {
+    "frage": "Aus wievielen Hauptinseln besteht Japan?",
+    "antwort": 4
+  },
+  {
+    "frage": "Wof\u00fcr steht die Abk\u00fcrzung CD?",
+    "antwort": "Compact Disk"
+  },
+  {
+    "frage": "Buchstabiere Arch\u00e4ologie.",
+    "antwort": "Arch\u00e4ologie"
+  },
+  {
+    "frage": "Zu welchem Land geh\u00f6rt die Osterinsel?",
+    "antwort": "Chile"
+  },
+  {
+    "frage": "Welche Stadt hat das Kfz Kennzeichen A?",
+    "antwort": "Augsburg"
+  },
+  {
+    "frage": "Nenne Bestandteile einer R2G2 Koalition.",
+    "antwort": "SPD, Linke, FDP, Gr\u00fcne"
+  },
+  {
+    "frage": "Wann hat Sven Geburtstag?",
+    "antwort": "6. Feburar "
+  },
+  {
+    "frage": "In welchem Jahr wurde Moritz geboren?",
+    "antwort": 1996
+  },
+  {
+    "frage": "In welchem Stock befinden wir uns gerade?",
+    "antwort": "2. Stock"
+  },
+  {
+    "frage": "Wie hei\u00dft der Ort / Stadt an dem wir grade sind? ",
+    "antwort": "Gelnhausen Roth"
+  },
+  {
+    "frage": "Bei welchem Verein spielt Alex aktuell Fu\u00dfball?",
+    "antwort": "TV Wasserlos"
+  },
+  {
+    "frage": "Wie lautet Dennis`s Weltbekannter Spitzname?",
+    "antwort": "Denschar307"
+  },
+  {
+    "frage": "Vickys Muttersprache ist deutsch, wahr oder falsch?",
+    "antwort": "Falsch, es ist polnisch?"
+  },
+  {
+    "frage": "In welchem Land war Manon f\u00fcr 10 Monate dieses Jahres? ",
+    "antwort": "S\u00fcd-Afrika"
+  },
+  {
+    "frage": "Wie lautet die Winkelsumme bei Dreiecken?",
+    "antwort": "1810"
+  },
+  {
+    "frage": "Wie hei\u00dft eine m\u00e4nnliche Biene?",
+    "antwort": "Drohne"
+  },
+  {
+    "frage": "In welchem Monat feiern die meisten Menschen Neujahr",
+    "antwort": "Januar"
+  },
+  {
+    "frage": "John Deere ist ein Hersteller f\u00fcr welche Produkte?",
+    "antwort": "Traktoren"
+  },
+  {
+    "frage": "Warum hei\u00dft die Zahnb\u00fcrste Zahnb\u00fcrste?",
+    "antwort": "Weil Sie Z\u00e4hne b\u00fcrstet"
+  },
+  {
+    "frage": "Woher hat der Satz die Arschkarte gezogen seinen Ursprung?",
+    "antwort": "Fu\u00dfball"
+  },
+  {
+    "frage": "Nenne einen Nadelbaum der nie Zapfen tr\u00e4gt.",
+    "antwort": "Es gibt keinen, jeder tr\u00e4gt Zapfen"
+  },
+  {
+    "frage": "Der normale Hauptanschluss an Frischwasser hat in der Regel welchen Wasserdruck?",
+    "antwort": "3-4 Bar"
+  },
+  {
+    "frage": "Um den gro\u00dfen Dynamikraum einer Orgel klingen zu lassen, werden in der Orgel oft bist zu 2000 Saiten verbaut, richtig oder falsch?",
+    "antwort": "Falsch, die Orgel macht die T\u00f6ne durch Luftstr\u00f6me"
+  },
+  {
+    "frage": "Was wird durch den l\u00e4ngsten Felstunnel der Erde transportiert?",
+    "antwort": "Wasser"
+  },
+  {
+    "frage": "Ein Gabelstapler hei\u00dft Gabelstapler, weil er Urspr\u00fcnglich dazu erfunden wurde Gabeln zu stapeln, richtig oder falsch?",
+    "antwort": "Falsch"
+  }
+]

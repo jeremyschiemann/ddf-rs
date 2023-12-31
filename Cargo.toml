@@ -1,0 +1,21 @@
+[package]
+name = "ddf-rs"
+version = "0.1.0"
+edition = "2021"
+
+[profile.min-size]
+inherits = "release"
+lto = true
+codegen-units = 1
+opt-level = 'z'
+panic = 'abort'     # Abort on panic
+strip = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rusqlite = { version = "0.30.0", features = ["bundled"] }
+serde = { version = "1.0.193", features = ["derive"] }
+serde_json = "1.0.108"
+serde_with = "3.4.0"
+strum = { version = "0.25.0", features = ["derive"] }

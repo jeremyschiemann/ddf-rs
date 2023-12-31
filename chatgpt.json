@@ -1,0 +1,602 @@
+[
+  {
+    "frage": "Was ist die Hauptstadt von Frankreich?",
+    "antwort": "Paris"
+  },
+  {
+    "frage": "Welcher Planet ist der dritte in unserem Sonnensystem?",
+    "antwort": "Erde"
+  },
+  {
+    "frage": "Wer schrieb 'Die Odyssee'?",
+    "antwort": "Homer"
+  },
+  {
+    "frage": "Was ist die chemische Formel f\u00fcr Wasser?",
+    "antwort": "H2O"
+  },
+  {
+    "frage": "Wer entdeckte die Schwerkraft?",
+    "antwort": "Isaac Newton"
+  },
+  {
+    "frage": "Welches ist das kleinste S\u00e4ugetier der Welt?",
+    "antwort": "Die Spitzmaus"
+  },
+  {
+    "frage": "Wie viele Zehen hat ein Hund normalerweise?",
+    "antwort": "Vier"
+  },
+  {
+    "frage": "Welches ist das l\u00e4ngste Wort in der deutschen Sprache?",
+    "antwort": "Donaudampfschifffahrtselektrizit\u00e4tenhauptbetriebswerkbauunterbeamtengesellschaft"
+  },
+  {
+    "frage": "In welchem Jahr landete der Mensch erstmals auf dem Mond?",
+    "antwort": "1969"
+  },
+  {
+    "frage": "Welcher ist der h\u00f6chste Berg der Welt?",
+    "antwort": "Mount Everest"
+  },
+  {
+    "frage": "Wer schrieb 'Harry Potter'?",
+    "antwort": "J.K. Rowling"
+  },
+  {
+    "frage": "Wie nennt man die Studie von V\u00f6geln?",
+    "antwort": "Ornithologie"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente der Erdatmosph\u00e4re?",
+    "antwort": "Stickstoff"
+  },
+  {
+    "frage": "Wer malte 'Die Sternennacht'?",
+    "antwort": "Vincent van Gogh"
+  },
+  {
+    "frage": "Wie viele Planeten gibt es in unserem Sonnensystem?",
+    "antwort": "Acht"
+  },
+  {
+    "frage": "Was ist die gr\u00f6\u00dfte Insel der Welt?",
+    "antwort": "Gr\u00f6nland"
+  },
+  {
+    "frage": "Welches Element hat das chemische Symbol 'Fe'?",
+    "antwort": "Eisen"
+  },
+  {
+    "frage": "Wer war der erste Mensch im Weltraum?",
+    "antwort": "Juri Alexejewitsch Gagarin"
+  },
+  {
+    "frage": "Wie viele Kontinente gibt es in der Welt?",
+    "antwort": "Sieben"
+  },
+  {
+    "frage": "Welches ist das am h\u00e4ufigsten vorkommende Gas in der Erdatmosph\u00e4re?",
+    "antwort": "Stickstoff"
+  },
+  {
+    "frage": "Wer schrieb 'Stolz und Vorurteil'?",
+    "antwort": "Jane Austen"
+  },
+  {
+    "frage": "Welche Wissenschaft erforscht das Verhalten von Elektronen?",
+    "antwort": "Elektronik"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Japan?",
+    "antwort": "Tokio"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Sternen und Planeten?",
+    "antwort": "Astronomie"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Frankreich?",
+    "antwort": "Paris"
+  },
+  {
+    "frage": "Welcher Planet ist der dritte in unserem Sonnensystem?",
+    "antwort": "Erde"
+  },
+  {
+    "frage": "Wer schrieb 'Die Odyssee'?",
+    "antwort": "Homer"
+  },
+  {
+    "frage": "Was ist die chemische Formel f\u00fcr Wasser?",
+    "antwort": "H2O"
+  },
+  {
+    "frage": "Wer entdeckte die Schwerkraft?",
+    "antwort": "Isaac Newton"
+  },
+  {
+    "frage": "Welches ist das kleinste S\u00e4ugetier der Welt?",
+    "antwort": "Die Spitzmaus"
+  },
+  {
+    "frage": "Wie viele Zehen hat ein Hund normalerweise?",
+    "antwort": "Vier"
+  },
+  {
+    "frage": "Welches ist das l\u00e4ngste Wort in der deutschen Sprache?",
+    "antwort": "Donaudampfschifffahrtselektrizit\u00e4tenhauptbetriebswerkbauunterbeamtengesellschaft"
+  },
+  {
+    "frage": "In welchem Jahr landete der Mensch erstmals auf dem Mond?",
+    "antwort": "1969"
+  },
+  {
+    "frage": "Welcher ist der h\u00f6chste Berg der Welt?",
+    "antwort": "Mount Everest"
+  },
+  {
+    "frage": "Wer schrieb 'Harry Potter'?",
+    "antwort": "J.K. Rowling"
+  },
+  {
+    "frage": "Wie nennt man die Studie von V\u00f6geln?",
+    "antwort": "Ornithologie"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente der Erdatmosph\u00e4re?",
+    "antwort": "Stickstoff"
+  },
+  {
+    "frage": "Wer malte 'Die Sternennacht'?",
+    "antwort": "Vincent van Gogh"
+  },
+  {
+    "frage": "Wie viele Planeten gibt es in unserem Sonnensystem?",
+    "antwort": "Acht"
+  },
+  {
+    "frage": "Was ist die gr\u00f6\u00dfte Insel der Welt?",
+    "antwort": "Gr\u00f6nland"
+  },
+  {
+    "frage": "Welches Element hat das chemische Symbol 'Fe'?",
+    "antwort": "Eisen"
+  },
+  {
+    "frage": "Wer war der erste Mensch im Weltraum?",
+    "antwort": "Juri Alexejewitsch Gagarin"
+  },
+  {
+    "frage": "Wie viele Kontinente gibt es in der Welt?",
+    "antwort": "Sieben"
+  },
+  {
+    "frage": "Welches ist das am h\u00e4ufigsten vorkommende Gas in der Erdatmosph\u00e4re?",
+    "antwort": "Stickstoff"
+  },
+  {
+    "frage": "Wer schrieb 'Stolz und Vorurteil'?",
+    "antwort": "Jane Austen"
+  },
+  {
+    "frage": "Welche Wissenschaft erforscht das Verhalten von Elektronen?",
+    "antwort": "Elektronik"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Japan?",
+    "antwort": "Tokio"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Sternen und Planeten?",
+    "antwort": "Astronomie"
+  },
+  {
+    "frage": "Wer schrieb 'Faust'?",
+    "antwort": "Johann Wolfgang von Goethe"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von China?",
+    "antwort": "Peking"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Viren?",
+    "antwort": "Virologie"
+  },
+  {
+    "frage": "In welchem Jahr wurde die Europ\u00e4ische Union gegr\u00fcndet?",
+    "antwort": "1993"
+  },
+  {
+    "frage": "Wer erfand das Telefon?",
+    "antwort": "Alexander Graham Bell"
+  },
+  {
+    "frage": "Was ist die chemische Formel f\u00fcr Kohlendioxid?",
+    "antwort": "CO2"
+  },
+  {
+    "frage": "Welches ist das kleinste Element im Periodensystem?",
+    "antwort": "Wasserstoff"
+  },
+  {
+    "frage": "Wer schrieb 'Die Dreigroschenoper'?",
+    "antwort": "Bertolt Brecht"
+  },
+  {
+    "frage": "Wie nennt man die Studie der Haut?",
+    "antwort": "Dermatologie"
+  },
+  {
+    "frage": "Welcher Planet ist als 'Der Gasriese' bekannt?",
+    "antwort": "Jupiter"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Milch?",
+    "antwort": "Wasser"
+  },
+  {
+    "frage": "Welches Tier ist das schnellste auf dem Land?",
+    "antwort": "Gepard"
+  },
+  {
+    "frage": "Wer komponierte 'Die Zauberfl\u00f6te'?",
+    "antwort": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Pilzen?",
+    "antwort": "Mykologie"
+  },
+  {
+    "frage": "In welchem Jahr wurde die Magna Carta unterzeichnet?",
+    "antwort": "1215"
+  },
+  {
+    "frage": "Wer schrieb 'Der Hobbit'?",
+    "antwort": "J.R.R. Tolkien"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Erdbeerjoghurt?",
+    "antwort": "Erdbeeren"
+  },
+  {
+    "frage": "Welches Element hat das chemische Symbol 'Na'?",
+    "antwort": "Natrium"
+  },
+  {
+    "frage": "Wer war der erste Mensch im All?",
+    "antwort": "Juri Alexejewitsch Gagarin"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Fossilien?",
+    "antwort": "Pal\u00e4ontologie"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Indien?",
+    "antwort": "Neu-Delhi"
+  },
+  {
+    "frage": "Welches ist das kleinste Tier der Welt?",
+    "antwort": "Die Federfl\u00fcgler"
+  },
+  {
+    "frage": "Wer schrieb 'Die R\u00e4uber'?",
+    "antwort": "Friedrich Schiller"
+  },
+  {
+    "frage": "In welchem Jahr wurde die UNO gegr\u00fcndet?",
+    "antwort": "1945"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Bier?",
+    "antwort": "Wasser"
+  },
+  {
+    "frage": "Wer schrieb 'Der kleine Prinz'?",
+    "antwort": "Antoine de Saint-Exup\u00e9ry"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Spanien?",
+    "antwort": "Madrid"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Gesteinen?",
+    "antwort": "Petrologie"
+  },
+  {
+    "frage": "In welchem Jahr wurde die erste Atombombe gez\u00fcndet?",
+    "antwort": "1945"
+  },
+  {
+    "frage": "Wer erfand die Gl\u00fchbirne?",
+    "antwort": "Thomas Edison"
+  },
+  {
+    "frage": "Was ist die chemische Formel f\u00fcr Tafelsalz?",
+    "antwort": "NaCl"
+  },
+  {
+    "frage": "Welches ist das gr\u00f6\u00dfte Organ im menschlichen K\u00f6rper?",
+    "antwort": "Die Haut"
+  },
+  {
+    "frage": "Wer schrieb 'Die Leiden des jungen Werthers'?",
+    "antwort": "Johann Wolfgang von Goethe"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Pilzen?",
+    "antwort": "Mykologie"
+  },
+  {
+    "frage": "Welcher Planet ist als 'Der Eisriese' bekannt?",
+    "antwort": "Neptun"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Zucker?",
+    "antwort": "Saccharose"
+  },
+  {
+    "frage": "Welches Tier ist das gr\u00f6\u00dfte auf der Erde?",
+    "antwort": "Der Blauwal"
+  },
+  {
+    "frage": "Wer komponierte 'Die Mondscheinsonate'?",
+    "antwort": "Ludwig van Beethoven"
+  },
+  {
+    "frage": "Wie nennt man die Studie von V\u00f6geln?",
+    "antwort": "Ornithologie"
+  },
+  {
+    "frage": "In welchem Jahr wurde die Unabh\u00e4ngigkeit Mexikos erkl\u00e4rt?",
+    "antwort": "1810"
+  },
+  {
+    "frage": "Wer schrieb 'Die Br\u00fcder Karamasow'?",
+    "antwort": "Fjodor Dostojewski"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Erdnussbutter?",
+    "antwort": "Erdn\u00fcsse"
+  },
+  {
+    "frage": "Welches Element hat das chemische Symbol 'K'?",
+    "antwort": "Kalium"
+  },
+  {
+    "frage": "Wer war der erste Mensch auf dem Mond?",
+    "antwort": "Neil Armstrong"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Amphibien?",
+    "antwort": "Batrachologie"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von S\u00fcdkorea?",
+    "antwort": "Seoul"
+  },
+  {
+    "frage": "Welches ist das schwerste Edelmetall?",
+    "antwort": "Osmium"
+  },
+  {
+    "frage": "Wer schrieb 'Der Steppenwolf'?",
+    "antwort": "Hermann Hesse"
+  },
+  {
+    "frage": "In welchem Jahr wurde die Europ\u00e4ische Union gegr\u00fcndet?",
+    "antwort": "1993"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Wein?",
+    "antwort": "Alkohol"
+  },
+  {
+    "frage": "Wer schuf die 'Statue of Liberty'?",
+    "antwort": "Fr\u00e9d\u00e9ric Auguste Bartholdi"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Myanmar?",
+    "antwort": "Naypyidaw"
+  },
+  {
+    "frage": "Welches ist das kleinste Element im Periodensystem?",
+    "antwort": "Helium"
+  },
+  {
+    "frage": "In welchem Jahr wurde die erste erfolgreiche Herztransplantation durchgef\u00fchrt?",
+    "antwort": "1967"
+  },
+  {
+    "frage": "Wer entwickelte die Relativit\u00e4tstheorie unabh\u00e4ngig von Albert Einstein?",
+    "antwort": "David Hilbert"
+  },
+  {
+    "frage": "Was ist die chemische Formel f\u00fcr Ammoniak?",
+    "antwort": "NH3"
+  },
+  {
+    "frage": "Welches ist das zweith\u00e4ufigste Edelmetall?",
+    "antwort": "Platin"
+  },
+  {
+    "frage": "Wer schrieb 'Die Schuldigkeit des ersten Gebots'?",
+    "antwort": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Exoplaneten?",
+    "antwort": "Exoplanetologie"
+  },
+  {
+    "frage": "Welcher Planet ist der einzige, der sich gegen den Uhrzeigersinn dreht?",
+    "antwort": "Venus"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Erd\u00f6l?",
+    "antwort": "Kohlenwasserstoffe"
+  },
+  {
+    "frage": "Wer entdeckte den ersten bekannten Dinosaurier?",
+    "antwort": "Richard Owen"
+  },
+  {
+    "frage": "Wer komponierte 'Die Unvollendete'?",
+    "antwort": "Franz Schubert"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Schwarzen L\u00f6chern?",
+    "antwort": "Astrophysik"
+  },
+  {
+    "frage": "In welchem Jahr wurde der Euro eingef\u00fchrt?",
+    "antwort": "2002"
+  },
+  {
+    "frage": "Wer schrieb 'Die Elenden'?",
+    "antwort": "Victor Hugo"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Haaren?",
+    "antwort": "Keratin"
+  },
+  {
+    "frage": "Welches Element hat das chemische Symbol 'Cu'?",
+    "antwort": "Kupfer"
+  },
+  {
+    "frage": "Wer war der erste Mensch im All mehr als einmal?",
+    "antwort": "Juri Alexejewitsch Gagarin"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Gletschern?",
+    "antwort": "Glaziologie"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Argentinien?",
+    "antwort": "Buenos Aires"
+  },
+  {
+    "frage": "Welches ist das h\u00e4ufigste Edelmetall?",
+    "antwort": "Gold"
+  },
+  {
+    "frage": "Wer schrieb 'Die D\u00e4monen'?",
+    "antwort": "Fjodor Dostojewski"
+  },
+  {
+    "frage": "In welchem Jahr wurde der erste Computer gebaut?",
+    "antwort": "1941"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Erdgas?",
+    "antwort": "Methan"
+  },
+  {
+    "frage": "Welcher Planet ist der zweitkleinste in unserem Sonnensystem?",
+    "antwort": "Mars"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Australien?",
+    "antwort": "Canberra"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Pflanzen?",
+    "antwort": "Botanik"
+  },
+  {
+    "frage": "In welchem Jahr begann der Erste Weltkrieg?",
+    "antwort": "1914"
+  },
+  {
+    "frage": "Wer erfand das Internet?",
+    "antwort": "Tim Berners-Lee"
+  },
+  {
+    "frage": "Was ist die chemische Formel f\u00fcr Kohlenstoffdioxid?",
+    "antwort": "CO2"
+  },
+  {
+    "frage": "Welches ist das h\u00e4ufigste Gas in der Erdatmosph\u00e4re?",
+    "antwort": "Stickstoff"
+  },
+  {
+    "frage": "Wer schrieb 'Die Schatzinsel'?",
+    "antwort": "Robert Louis Stevenson"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Insekten?",
+    "antwort": "Entomologie"
+  },
+  {
+    "frage": "Welcher Planet ist der drittgr\u00f6\u00dfte in unserem Sonnensystem?",
+    "antwort": "Erde"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Schokolade?",
+    "antwort": "Kakao"
+  },
+  {
+    "frage": "Wer ist der ber\u00fchmte Physiker, der eine Theorie \u00fcber schwarze L\u00f6cher entwickelte?",
+    "antwort": "Stephen Hawking"
+  },
+  {
+    "frage": "Was ist die chemische Formel f\u00fcr Wasser?",
+    "antwort": "H2O"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Sternen und Planeten?",
+    "antwort": "Astronomie"
+  },
+  {
+    "frage": "In welchem Jahr wurde die amerikanische Unabh\u00e4ngigkeitserkl\u00e4rung unterzeichnet?",
+    "antwort": "1776"
+  },
+  {
+    "frage": "Wer schrieb 'Romeo und Julia'?",
+    "antwort": "William Shakespeare"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Bananen?",
+    "antwort": "Fruchtzucker"
+  },
+  {
+    "frage": "Welches Element hat das chemische Symbol 'H'?",
+    "antwort": "Wasserstoff"
+  },
+  {
+    "frage": "Wer war der erste Mensch auf dem Mond?",
+    "antwort": "Neil Armstrong"
+  },
+  {
+    "frage": "Wie nennt man die Studie von Fossilien?",
+    "antwort": "Pal\u00e4ontologie"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Deutschland?",
+    "antwort": "Berlin"
+  },
+  {
+    "frage": "Welches ist das kleinste Primzahl?",
+    "antwort": "Zwei"
+  },
+  {
+    "frage": "Wer schrieb 'Die G\u00f6ttliche Kom\u00f6die'?",
+    "antwort": "Dante Alighieri"
+  },
+  {
+    "frage": "In welchem Jahr endete der Zweite Weltkrieg?",
+    "antwort": "1945"
+  },
+  {
+    "frage": "Was ist die Hauptkomponente von Milch?",
+    "antwort": "Wasser"
+  },
+  {
+    "frage": "Wer schuf das Gem\u00e4lde 'Die letzte Mahlzeit'?",
+    "antwort": "Leonardo da Vinci"
+  },
+  {
+    "frage": "Was ist die Hauptstadt von Kanada?",
+    "antwort": "Ottawa"
+  }
+]
