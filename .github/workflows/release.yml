@@ -28,7 +28,7 @@ jobs:
       run: |
         cargo build --release && \
         echo "========== Build settings ==========" && \
-        cargo rustc --release --print cfg
+        cargo rustc --release -- --print cfg
 
     - name: Release
       uses: softprops/action-gh-release@v1
