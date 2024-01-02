@@ -25,7 +25,7 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Build settings
-      run: cargo rustc --release --print cfg
+      run: cargo +nighlty rustc --release --print cfg
 
     - name: Build Executable
       run: cargo build --release
