@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Setup Rust
       uses: actions-rs/toolchain@v1
@@ -24,8 +24,8 @@ jobs:
     - name: Archive Artifact
       uses: actions/upload-artifact@v2
       with:
-        name: my-executable
-        path: target/release/
+        name: ddf-rs
+        path: target/release/ddf-rs
 
   release:
     needs: build
@@ -35,7 +35,7 @@ jobs:
     - name: Download Artifact
       uses: actions/download-artifact@v2
       with:
-        name: my-executable
+        name: ddf-rs
 
     - name: Create Release
       id: create_release
@@ -55,6 +55,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./my-executable
-        asset_name: my-executable
+        asset_path: ./ddf-rs
+        asset_name: ddf-rs
         asset_content_type: application/octet-stream
