@@ -16,7 +16,7 @@ jobs:
     steps: 
     - uses: actions/checkout@v3
     - name: Clippy
-      run: cargo clippy --release
+      run: cargo clippy --release -- -D clippy::type_complexity
 
   Check:
     runs-on: ubuntu-latest
