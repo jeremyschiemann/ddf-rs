@@ -8,6 +8,7 @@ on:
 
 env:
   CARGO_TERM_COLOR: always
+  RUSTFLAGS: "-Dwarnings"
 
 jobs:
 
@@ -19,7 +20,7 @@ jobs:
       run: cargo check
     - uses: actions/checkout@v3
     - name: Clippy
-      run: cargo clippy -- -A clippy::type_complexity
+      run: cargo clippy --all-targets --all-features -- -A clippy::type_complexity
       
   build:
 
