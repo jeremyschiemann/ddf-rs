@@ -23,12 +23,12 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
-
-    - name: Build settings
-      run: rustup toolchain install nightly && cargo +nighlty rustc --release --print cfg
-
+    
     - name: Build Executable
-      run: cargo build --release
+      run: |
+        cargo build --release && \
+        echo "\nBuild settings:\n" && \
+        cargo --release rustc -- print cfg
 
     - name: Release
       uses: softprops/action-gh-release@v1
