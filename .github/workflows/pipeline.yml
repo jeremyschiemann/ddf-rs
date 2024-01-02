@@ -13,10 +13,7 @@ jobs:
 
   Clippy:
     runs-on: ubuntu-latest
-    steps: 
-    - uses: actions-rs/toolchain@v1
-      with:
-        toolchain: stable
+    steps:
     - uses: actions/checkout@v3
     - name: Clippy
       run: cargo clippy --release -- -A clippy::type_complexity
@@ -25,9 +22,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: Clippy
     steps: 
-    - uses: actions-rs/toolchain@v1
-      with:
-        toolchain: stable
     - uses: actions/checkout@v3
     - name: Check
       run: cargo check --release
@@ -41,9 +35,6 @@ jobs:
     runs-on: ${{ matrix.os }}
     needs: Check
     steps:
-    - uses: actions-rs/toolchain@v1
-      with:
-        toolchain: stable
     - uses: actions/checkout@v3
     - name: Build
       run: cargo build --verbose --release
