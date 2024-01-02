@@ -20,7 +20,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: ddf-rs
-        path: target/release/ddf-rs
+        path: target/release/ddf-rs/ddf-rs
 
   release:
     needs: build
