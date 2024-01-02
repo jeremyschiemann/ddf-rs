@@ -26,4 +26,4 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         files: |
-          targets/release/ddf-rs${{ matrix.os == 'windows-latest' && '.exe' || '' }}
+          target/release/ddf-rs${{ matrix.os == 'windows-latest' && '.exe' || '' }}
