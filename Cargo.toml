@@ -10,6 +10,9 @@ split-debuginfo = "packed"
 
 [profile.release.build-override]
 opt-level = 3
+strip = true
+lto = true
+split-debuginfo = "packed"
 
 [profile.min-size]
 inherits = "release"
