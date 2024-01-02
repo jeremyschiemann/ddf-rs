@@ -8,6 +8,9 @@ strip = true
 lto = true
 split-debuginfo = "packed"
 
+[profile.release.build-override]
+opt-level = 3
+
 [profile.min-size]
 inherits = "release"
 lto = true
