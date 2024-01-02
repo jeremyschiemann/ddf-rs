@@ -16,15 +16,15 @@ jobs:
     steps: 
     - uses: actions/checkout@v3
     - name: Clippy
-      run: cargo clippy
+      run: cargo clippy --release
 
   Check:
     runs-on: ubuntu-latest
     needs: Clippy
     steps: 
     - uses: actions/checkout@v3
-    - name: Clippy
-      run: cargo check
+    - name: Check
+      run: cargo check --release
       
   build:
     runs-on: ubuntu-latest
@@ -32,4 +32,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build
-      run: cargo build --verbose 
+      run: cargo build --verbose --release
