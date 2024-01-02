@@ -1,4 +1,4 @@
-name: Rus
+name: CICD
 
 on:
   push:
