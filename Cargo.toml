@@ -6,7 +6,7 @@ edition = "2021"
 [profile.release]
 strip = true
 lto = true
-split-debuginfo = "off"
+split-debuginfo = "packed"
 
 [profile.min-size]
 inherits = "release"
