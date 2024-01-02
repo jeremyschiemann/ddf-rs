@@ -25,7 +25,7 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Build Executable
-      run: cargo build --release - -verbose && echo " Cargo Build Settings :" && RUSTC_WRAPPER="" cargo rustc -- -print cfg
+      run: cargo build --release --verbose && echo " Cargo Build Settings :" && RUSTC_WRAPPER="" cargo rustc -- -print cfg
 
     - name: Release
       uses: softprops/action-gh-release@v1
