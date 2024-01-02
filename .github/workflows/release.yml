@@ -2,7 +2,7 @@ name: Build and Release
 
 on:
   release:
-    types: [created]
+    types: [published]
       
 permissions:
   contents: write
@@ -38,6 +38,8 @@ jobs:
       uses: bruceadams/get-release@v1.3.2
       env:
         GITHUB_TOKEN: ${{ github.GITHUB_TOKEN }}
+      with:
+        token: ${{ github.GITHUB_TOKEN }}
 
     - name: Upload Release Asset
       id: upload-release-asset
