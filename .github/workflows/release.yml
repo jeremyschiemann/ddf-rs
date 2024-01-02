@@ -12,6 +12,11 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, windows-latest]
+        include:
+        - os: ubuntu-latest
+          extension: ''
+        - os: windows-latest
+          extension: '.exe'
         
     runs-on: ${{ matrix.os }}
 
@@ -26,4 +31,4 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         files: |
-          target/release/ddf-rs${{ matrix.os == 'windows-latest' && '.exe' || '' }}
+          target/release/ddf-rs${{ matrix.extension }}
