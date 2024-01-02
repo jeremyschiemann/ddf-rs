@@ -34,13 +34,6 @@ jobs:
       with:
         name: ddf-rs
         
-    - name: Get release
-      uses: bruceadams/get-release@v1.3.2
-      env:
-        GITHUB_TOKEN: ${{ github.GITHUB_TOKEN }}
-      with:
-        token: ${{ github.GITHUB_TOKEN }}
-
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
