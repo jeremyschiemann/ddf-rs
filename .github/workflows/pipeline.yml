@@ -25,14 +25,24 @@ jobs:
     runs-on: ubuntu-latest
     needs: Clippy
     steps: 
+    - uses: actions-rs/toolchain@v1
+      with:
+        toolchain: stable
     - uses: actions/checkout@v3
     - name: Check
       run: cargo check --release
       
   build:
-    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
     needs: Check
     steps:
+    - uses: actions-rs/toolchain@v1
+      with:
+        toolchain: stable
     - uses: actions/checkout@v3
     - name: Build
       run: cargo build --verbose --release
