@@ -24,8 +24,11 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
+    - name: Build settings
+      run: cargo rustc --release -- --print cfg
+
     - name: Build Executable
-      run: cargo build --release && echo " Cargo Build Settings :" && cargo rustc -- --print cfg
+      run: cargo build --release
 
     - name: Release
       uses: softprops/action-gh-release@v1
