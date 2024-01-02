@@ -22,29 +22,8 @@ jobs:
     - name: Build Executable
       run: cargo build --release
 
-    - name: Archive Artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: ddf-rs-${{ matrix.os }}
-        path: target/release/ddf-rs${{ matrix.os == 'windows-latest' && '.exe' || '' }}
-
-  release:
-    needs: build
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Download Artifact
-      uses: actions/download-artifact@v4
-      with:
-        name: ddf-rs-ubuntu-latest
-
-    - name: Download Artifact
-      uses: actions/download-artifact@v4
-      with:
-        name: ddf-rs-windows-latest
-        
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
         files: |
-          ddf-rs
+          ddf-rs${{ matrix.os == 'windows-latest' && '.exe' || '' }}
