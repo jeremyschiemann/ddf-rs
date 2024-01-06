@@ -63,29 +63,27 @@ pub fn reset_seen(conn: &Connection) -> Result<()> {
 }
 
 pub fn show_all(conn: &Connection) -> Result<()> {
-    let mut stmt = conn.prepare("select * from questions;")?;
-    let rows = stmt.query_map([], |row| {
-        Ok(Question {
-            answer: row.get("answer")?,
-            question: row.get("question")?,
-            source: row.get("source")?,
-            session_seen: row.get("session_seen")?,
-            total_seen: row.get("total_seen")?,
-        })
-    })?;
-
-    let questions = rows.collect::<Result<Vec<Question>>>()?;
-
-    for question in questions {
-        println!(
-            "{} | {} | {} | {} | {}",
-            question.question,
-            question.answer,
-            question.source,
-            question.session_seen,
-            question.total_seen
-        );
-    }
+    conn.prepare("select * from questions;")?
+        .query_map([], |row| {
+            Ok(Question {
+                answer: row.get("answer")?,
+                question: row.get("question")?,
+                source: row.get("source")?,
+                session_seen: row.get("session_seen")?,
+                total_seen: row.get("total_seen")?,
+            })
+        })?
+        .filter_map(|item| item.ok())
+        .for_each(|question| {
+            println!(
+                "{} | {} | {} | {} | {}",
+                question.question,
+                question.answer,
+                question.source,
+                question.session_seen,
+                question.total_seen
+            )
+        });
 
     Ok(())
 }
