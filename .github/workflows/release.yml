@@ -34,3 +34,33 @@ jobs:
       with:
         files: |
           target/release/ddf-rs${{ matrix.extension }}
+
+  build-min-size:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        include:
+        - os: ubuntu-latest
+          extension: ''
+        - os: windows-latest
+          extension: '.exe'
+        
+    runs-on: ${{ matrix.os }}
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+    
+    - name: Build Executable
+      run: |
+        cargo build --profile min-size
+    
+    - name: Rename Binary
+      run: |
+        mv target/min-size/ddf-rs${{ matrix.extension }} target/min-size/ddf-rs.min${{ matrix.extension }}
+
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: |
+          target/min-size/ddf-rs.min${{ matrix.extension }}
