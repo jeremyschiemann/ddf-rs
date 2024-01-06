@@ -130,7 +130,7 @@ dependencies = [
 
 [[package]]
 name = "ddf-rs"
-version = "1.0.1"
+version = "1.0.2"
 dependencies = [
  "rusqlite",
  "serde",
